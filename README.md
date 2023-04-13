@@ -8,10 +8,17 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-# 📝📊 projects I Made:
+# 📝📊 Projects I Made:
 <a href="https://abu-ellil.github.io/Appie">
-  <img src="https://user-images.githubusercontent.com/94858304/231668224-187f8e82-f36a-493a-abc6-12cedb097f35.png" alt="Description of image" width="300px">
+  <img src="https://user-images.githubusercontent.com/94858304/231668224-187f8e82-f36a-493a-abc6-12cedb097f35.png" alt="Description of image" height="200px" width="250px">
 </a>
+<a href="https://abu-ellil.github.io/KanbanBoard/">
+  <img src="https://user-images.githubusercontent.com/94858304/231669683-35882001-3357-40d0-90a1-14857f93f53d.png" alt="Description of image" height="200px width="250px">
+</a>
+<a href="https://abu-ellil.github.io/JS-20PROJECTS">
+  <img src="https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png" alt="Description of image" height="200px" width="250px">
+</a>
+
 
 
 
