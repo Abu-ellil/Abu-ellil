@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Mahmoud Abuellil<br>👀 I’m interested in Problems solving<br>🌱 I’m currently learning front end web dev<br>💞️ I’m looking to collaborate on GOOGLE
-
+👋 Hi, I’m Mahmoud Abuellil<br>
+👌"The best way to predict your future is to create it." This quote by Abraham Lincoln reminds us that we have the power to shape our own destiny and that we should take action towards creating the future we desire.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/k3P3mEtg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmoud.aboellil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abu-ellil-806619254) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MahmoudAboelli3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCxikWSAZ87vsO5oq9Q0N39g) 
