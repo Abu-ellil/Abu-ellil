@@ -10,7 +10,8 @@
   <img src="https://user-images.githubusercontent.com/94858304/231668224-187f8e82-f36a-493a-abc6-12cedb097f35.png" alt="Description of image" height="200px" width="250px">
 </a>
 <a href="https://abu-ellil.github.io/KanbanBoard/">
-  <img src="https://user-images.githubusercontent.com/94858304/231669683-35882001-3357-40d0-90a1-14857f93f53d.png" alt="Description of image" height="200px width="250px">
+  <img src="https://user-images.githubusercontent.com/94858304/231673207-c6eebb31-9f75-4acb-8b42-330c810a3681.png" alt="Description of image" height="200px >
+                                                                                                                                                      <img src="https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png" alt="Description of image" height="200px" width="250px">
 </a>
 <a href="https://abu-ellil.github.io/JS-20PROJECTS">
   <img src="https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png" alt="Description of image" height="200px" width="250px">
