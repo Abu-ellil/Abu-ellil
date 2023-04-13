@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/k3P3mEtg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmoud.aboellil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abu-ellil-806619254) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MahmoudAboelli3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCxikWSAZ87vsO5oq9Q0N39g) 
+[![Discord](https://img.shields.io/badge/AboElli-Potfolio-blue)](https://abu-ellil.github.io/portfolio/) 
 
 # 📝📊 Projects I Made:
 <a href="https://abu-ellil.github.io/Appie">
@@ -11,8 +12,7 @@
 </a>
 <a href="https://abu-ellil.github.io/KanbanBoard/">
   <img src="https://user-images.githubusercontent.com/94858304/231673207-c6eebb31-9f75-4acb-8b42-330c810a3681.png" alt="Description of image" height="200px >
-                                                                                                                                                      <img src="https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png" alt="Description of image" height="200px" width="250px">
-</a>
+                                                                                                                                      
 <a href="https://abu-ellil.github.io/JS-20PROJECTS">
   <img src="https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png" alt="Description of image" height="200px" width="250px">
 </a>
