@@ -15,7 +15,7 @@
   <img src="https://user-images.githubusercontent.com/94858304/231673207-c6eebb31-9f75-4acb-8b42-330c810a3681.png" alt="Description of image" height="200px" width="250px">
 </a>
                                                                                                 
-<a href="https://abu-ellil.github.io/JS-20PROJECTS/">
+<a href="https://abu-ellil.github.io/20-Vanilla-JS-PROJECTS/">
   <img src="https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png" alt="Description of image" height="200px" width="250px">
 </a>
 
