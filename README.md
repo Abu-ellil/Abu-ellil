@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://abu-ellil.github.io/your-car-app/">
-  <img src="https://github.com/Abu-ellil/your-car-app/assets/94858304/1a121f23-f61c-4b6c-8ae1-e69ecc27109f" alt="Description of image" height="200px" width="250px">
+  <img src="https://user-images.githubusercontent.com/94858304/246162094-f78167e8-9adf-4d74-8a89-897da00c9485.png" alt="Description of image" height="200px" width="250px">
 </a>
 
 # 💻 Tech Stack:
