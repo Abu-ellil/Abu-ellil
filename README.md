@@ -9,6 +9,7 @@
 # 📝📊 Projects I Made:
 
 <div class="container">
+  <link rel="stylesheet" href="styles.css">
 <div class="project">
   <h3>Appie</h3>
   <a href="https://abu-ellil.github.io/Appie">
