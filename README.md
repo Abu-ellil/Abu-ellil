@@ -7,24 +7,96 @@
 [![Discord](https://img.shields.io/badge/AboElli-Potfolio-blue)](https://abu-ellil.github.io/portfolio/) 
 
 # 📝📊 Projects I Made:
-<a href="https://abu-ellil.github.io/Appie">
-  <img src="https://user-images.githubusercontent.com/94858304/231668224-187f8e82-f36a-493a-abc6-12cedb097f35.png" alt="Description of image" height="200px" width="250px">
-</a>
+<div class="project">
+<div class="container">
+<div class="project">
+  <h3>Appie</h3>
+  <a href="https://abu-ellil.github.io/Appie">
+    <img src="https://user-images.githubusercontent.com/94858304/231668224-187f8e82-f36a-493a-abc6-12cedb097f35.png" alt="Appie" height="200px" width="250px">
+  </a>
+</div>
 
-<a href="https://abu-ellil.github.io/KanbanBoard/">
-  <img src="https://user-images.githubusercontent.com/94858304/231673207-c6eebb31-9f75-4acb-8b42-330c810a3681.png" alt="Description of image" height="200px" width="250px">
-</a>
-                                                                                                
-<a href="https://abu-ellil.github.io/20-Vanilla-JS-PROJECTS/">
-  <img src="https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png" alt="Description of image" height="200px" width="250px">
-</a>
+<div class="project">
+  <h3>Kanban Board</h3>
+  <a href="https://abu-ellil.github.io/KanbanBoard/">
+    <img src="https://user-images.githubusercontent.com/94858304/231673207-c6eebb31-9f75-4acb-8b42-330c810a3681.png" alt="Kanban Board" height="200px" width="250px">
+  </a>
+</div>
 
-<a href="https://abu-ellil.github.io/your-car-app/">
-  <img src="https://user-images.githubusercontent.com/94858304/246162094-f78167e8-9adf-4d74-8a89-897da00c9485.png" alt="Description of image" height="200px" width="250px">
-</a>
-<a href="https://mern-project-todo-kalbonyan.vercel.app/">
-  <img src="https://user-images.githubusercontent.com/94858304/250264715-31cbb966-2312-4e9d-b5ec-c5ab299070af.png" alt="Description of image" height="200px" width="250px">
-</a>
+<div class="project">
+  <h3>20 JS Projects</h3>
+  <a href="https://abu-ellil.github.io/20-Vanilla-JS-PROJECTS/">
+    <img src="https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png" alt="Vanilla JS Projects" height="200px" width="250px">
+  </a>
+</div>
+
+<div class="project">
+  <h3>Your Car App</h3>
+  <a href="https://abu-ellil.github.io/your-car-app/">
+    <img src="https://user-images.githubusercontent.com/94858304/246162094-f78167e8-9adf-4d74-8a89-897da00c9485.png" alt="Your Car App" height="200px" width="250px">
+  </a>
+</div>
+
+<div class="project">
+ <h3>Todo MERN Project </h3>
+  <a href="https://mern-project-todo-kalbonyan.vercel.app/"> 
+    <img src="https://user-images.githubusercontent.com/94858304/250264715-31cbb966-2312-4e9d-b5ec-c5ab299070af.png" alt="MERN Project Todo" height="200px" width="250px">
+  </a>
+</div>
+</div>
+<style>
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.project {
+    position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+  overflow: hidden;
+  border-radius: 9px;
+}
+
+.project img {
+  border-radius: 9px;
+  transition: all 0.3s ease-in-out;
+  opacity: 0.8;
+}
+
+.project:hover img {
+  transform: scale(1.2);
+  opacity: 1;
+}
+
+.project h3 {
+    display: none;
+    position: absolute;
+    bottom: -41px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(254, 254, 254);
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0;
+    text-align: center;
+    transition: opacity 0.3s ease-in-out;
+    background-color: rgb(70, 34, 75);
+    padding: 0.5rem;
+    width: 100%;
+    border-radius: 9px;
+    transition: all 0.3s ease-in-out;
+}
+
+.project:hover h3 {
+    z-index: 111;
+    display: block;
+  opacity: 1;
+}
+
+</style>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
