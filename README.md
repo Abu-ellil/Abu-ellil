@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/AboElli-Potfolio-blue)](https://abu-ellil.github.io/portfolio/) 
 
 # 📝📊 Projects I Made:
-<div class="project">
+
 <div class="container">
 <div class="project">
   <h3>Appie</h3>
