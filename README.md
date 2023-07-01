@@ -23,7 +23,7 @@
   <img src="https://user-images.githubusercontent.com/94858304/246162094-f78167e8-9adf-4d74-8a89-897da00c9485.png" alt="Description of image" height="200px" width="250px">
 </a>
 <a href="https://mern-project-todo-kalbonyan.vercel.app/">
-  <img src="https://user-images.githubusercontent.com/94858304/250264175-014b7626-8388-4a13-af73-8646b24c4847.png" alt="Description of image" height="200px" width="250px">
+  <img src="https://user-images.githubusercontent.com/94858304/250264715-31cbb966-2312-4e9d-b5ec-c5ab299070af.png" alt="Description of image" height="200px" width="250px">
 </a>
 
 # 💻 Tech Stack:
