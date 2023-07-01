@@ -10,6 +10,7 @@
 
 
 
+
 <h3>Projects I Made:</h3>
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -49,6 +50,14 @@
   </div>
 </div>
 
+
+  <div style="flex-basis: calc(33.33% - 20px); margin-bottom: 20px;">
+    <h3>Todo MERN Project</h3>
+    <a href="https://mern-project-todo-kalbonyan.vercel.app/">
+      <img src="https://user-images.githubusercontent.com/94858304/250264715-31cbb966-2312-4e9d-b5ec-c5ab299070af.png" alt="MERN Project Todo" height="200px" width="250px">
+    </a>
+  </div>
+</div>
 
 
 # 💻 Tech Stack:
