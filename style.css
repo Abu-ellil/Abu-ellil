@@ -1,0 +1,50 @@
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.project {
+    position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+  overflow: hidden;
+  border-radius: 9px;
+}
+
+.project img {
+  border-radius: 9px;
+  transition: all 0.3s ease-in-out;
+  opacity: 0.8;
+}
+
+.project:hover img {
+  transform: scale(1.2);
+  opacity: 1;
+}
+
+.project h3 {
+    display: none;
+    position: absolute;
+    bottom: -41px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(254, 254, 254);
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0;
+    text-align: center;
+    transition: opacity 0.3s ease-in-out;
+    background-color: rgb(70, 34, 75);
+    padding: 0.5rem;
+    width: 100%;
+    border-radius: 9px;
+    transition: all 0.3s ease-in-out;
+}
+
+.project:hover h3 {
+    z-index: 111;
+    display: block;
+  opacity: 1;
+}
