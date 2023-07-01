@@ -7,8 +7,19 @@
 [![Discord](https://img.shields.io/badge/AboElli-Potfolio-blue)](https://abu-ellil.github.io/portfolio/) 
 
 # 📝📊 Projects I Made:
-<link rel="stylesheet" type="text/css" href="https://github.com/Abu-ellil/Abu-ellil/blob/main/style.css">
-<div class="container">
+<body>
+<div class="my-class">
+  This text will be styled with the defined CSS class.
+
+<style>
+.my-class {
+  color: red;
+  font-size: 16px;
+}
+</style></div>
+</body>
+
+  <link rel="stylesheet" type="text/css" href="https://github.com/Abu-ellil/Abu-ellil/blob/main/style.css">
 <div class="project">
   <h3>Appie</h3>
   <a href="https://abu-ellil.github.io/Appie">
@@ -43,7 +54,7 @@
     <img src="https://user-images.githubusercontent.com/94858304/250264715-31cbb966-2312-4e9d-b5ec-c5ab299070af.png" alt="MERN Project Todo" height="200px" width="250px">
   </a>
 </div>
-</div>
+
 
 
 
