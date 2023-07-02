@@ -9,7 +9,7 @@
 # 📝📊 Projects I Made:
 
 
-
+<div style="disply:flex;">
 <h3>Projects I Made:</h3>
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -48,7 +48,7 @@
     </a>
   </div>
 </div>
-
+</div>
 
 
 
