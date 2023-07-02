@@ -9,45 +9,26 @@
 # 📝📊 Projects I Made:
 
 
-<div style="disply:flex;">
+
 <h3>Projects I Made:</h3>
-
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex-basis: calc(33.33% - 20px); margin-bottom: 20px;">
-    <h3>Appie</h3>
-    <a href="https://abu-ellil.github.io/Appie">
-      <img src="https://user-images.githubusercontent.com/94858304/231668224-187f8e82-f36a-493a-abc6-12cedb097f35.png" alt="Appie" height="200px" width="250px">
-    </a>
-  </div>
-
-  <div style="flex-basis: calc(33.33% - 20px); margin-bottom: 20px;">
-    <h3>Kanban Board</h3>
-    <a href="https://abu-ellil.github.io/KanbanBoard/">
-      <img src="https://user-images.githubusercontent.com/94858304/231673207-c6eebb31-9f75-4acb-8b42-330c810a3681.png" alt="Kanban Board" height="200px" width="250px">
-    </a>
-  </div>
-
-  <div style="flex-basis: calc(33.33% - 20px); margin-bottom: 20px;">
-    <h3>20 JS Projects</h3>
-    <a href="https://abu-ellil.github.io/20-Vanilla-JS-PROJECTS/">
-      <img src="https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png" alt="Vanilla JS Projects" height="200px" width="250px">
-    </a>
-  </div>
-
-  <div style="flex-basis: calc(33.33% - 20px); margin-bottom: 20px;">
-    <h3>Your Car App</h3>
-    <a href="https://abu-ellil.github.io/your-car-app/">
-      <img src="https://user-images.githubusercontent.com/94858304/246162094-f78167e8-9adf-4d74-8a89-897da00c9485.png" alt="Your Car App" height="200px" width="250px">
-    </a>
-  </div>
-
-  <div style="flex-basis: calc(33.33% - 20px); margin-bottom: 20px;">
-    <h3>Todo MERN Project</h3>
-    <a href="https://mern-project-todo-kalbonyan.vercel.app/">
-      <img src="https://user-images.githubusercontent.com/94858304/250264715-31cbb966-2312-4e9d-b5ec-c5ab299070af.png" alt="MERN Project Todo" height="200px" width="250px">
-    </a>
-  </div>
-</div>
+  
+  
+<div class="project-grid">
+  <a href="https://mern-project-todo-kalbonyan.vercel.app/" title="Todo MERN Project">
+    <img src="https://user-images.githubusercontent.com/94858304/250264715-31cbb966-2312-4e9d-b5ec-c5ab299070af.png" alt="Project Image 1" width="250" height="250">
+  </a>
+  <a href="https://abu-ellil.github.io/your-car-app/" title="Your Car App">
+    <img src="https://user-images.githubusercontent.com/94858304/246162094-f78167e8-9adf-4d74-8a89-897da00c9485.png" alt="Project Image 1" width="250" height="250">
+  </a>
+  <a href="https://abu-ellil.github.io/20-Vanilla-JS-PROJECTS/" title="20 JS Projects">
+    <img src="https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png" alt="Project Image 2" width="250" height="250">
+  </a>
+  <a href="https://abu-ellil.github.io/KanbanBoard/" title="Kanban Board">
+    <img src="https://user-images.githubusercontent.com/94858304/231673207-c6eebb31-9f75-4acb-8b42-330c810a3681.png" alt="Project Image 3" width="250" height="250">
+  </a>
+   <a href="https://abu-ellil.github.io/Appie" title="Appie 4">
+    <img src="https://user-images.githubusercontent.com/94858304/231668224-187f8e82-f36a-493a-abc6-12cedb097f35.png" alt="Project Image 4" width="250" height="250">
+  </a>
 </div>
 
 
