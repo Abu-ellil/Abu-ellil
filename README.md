@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/k3P3mEtg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmoud.aboellil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abu-ellil-806619254) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MahmoudAboelli3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCMYVcvtt0Cs3lYpKGcIO-4g) 
-[![Discord](https://img.shields.io/badge/AboElli-Potfolio-blue)]([[https://abu-ellil.github.io/portfolio/](https://mahmoud-abuellil.vercel.app/)](https://mahmoud-abuellil.vercel.app/)) 
+[![Discord](https://img.shields.io/badge/AboElli-Potfolio-blue)](https://abu-ellil.github.io/portfolio/) 
 
 # 📝📊 Projects I Made:
 
