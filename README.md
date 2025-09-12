@@ -16,18 +16,6 @@
 
 ---
 
-## 🚀 Projects
-Here are a few projects I’ve worked on:
-
-| Project | Preview |
-|---------|---------|
-| [**Todo MERN Project**](https://mern-project-todo-kalbonyan.vercel.app/) | ![Todo](https://user-images.githubusercontent.com/94858304/250264715-31cbb966-2312-4e9d-b5ec-c5ab299070af.png) |
-| [**Your Car App**](https://abu-ellil.github.io/your-car-app/) | ![Car](https://user-images.githubusercontent.com/94858304/246162094-f78167e8-9adf-4d74-8a89-897da00c9485.png) |
-| [**20 Vanilla JS Projects**](https://abu-ellil.github.io/20-Vanilla-JS-PROJECTS/) | ![JS Projects](https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png) |
-| [**Kanban Board**](https://abu-ellil.github.io/KanbanBoard/) | ![Kanban](https://user-images.githubusercontent.com/94858304/231673207-c6eebb31-9f75-4acb-8b42-330c810a3681.png) |
-| [**Appie**](https://abu-ellil.github.io/Appie) | ![Appie](https://user-images.githubusercontent.com/94858304/231668224-187f8e82-f36a-493a-abc6-12cedb097f35.png) |
-
----
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,7 +35,18 @@ Here are a few projects I’ve worked on:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Ellil&theme=radical&hide_border=true&layout=compact)
 
 ---
+## 🚀 Projects
+Here are a few projects I’ve worked on:
 
+| Project | Preview |
+|---------|---------|
+| [**Todo MERN Project**](https://mern-project-todo-kalbonyan.vercel.app/) | ![Todo](https://user-images.githubusercontent.com/94858304/250264715-31cbb966-2312-4e9d-b5ec-c5ab299070af.png) |
+| [**Your Car App**](https://abu-ellil.github.io/your-car-app/) | ![Car](https://user-images.githubusercontent.com/94858304/246162094-f78167e8-9adf-4d74-8a89-897da00c9485.png) |
+| [**20 Vanilla JS Projects**](https://abu-ellil.github.io/20-Vanilla-JS-PROJECTS/) | ![JS Projects](https://user-images.githubusercontent.com/94858304/231672110-488dfbec-cf4c-4ea5-85d3-041ecc33a61a.png) |
+| [**Kanban Board**](https://abu-ellil.github.io/KanbanBoard/) | ![Kanban](https://user-images.githubusercontent.com/94858304/231673207-c6eebb31-9f75-4acb-8b42-330c810a3681.png) |
+| [**Appie**](https://abu-ellil.github.io/Appie) | ![Appie](https://user-images.githubusercontent.com/94858304/231668224-187f8e82-f36a-493a-abc6-12cedb097f35.png) |
+
+---
 ## 📝 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
