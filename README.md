@@ -6,7 +6,7 @@ If you’d like to reach out, here are the best ways to connect:
 ---
 
 ### 🌐 Portfolio  
-👉 [**mahmoud-abuellil.vercel.app**](https://mahmoud-abuellil.vercel.app/)  
+👉 [**mahmoud-abuellil.vercel.app**](https:aboellil.dev)  
 
 ---
 
