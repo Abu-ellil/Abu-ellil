@@ -6,7 +6,7 @@ If you’d like to reach out, here are the best ways to connect:
 ---
 
 ### 🌐 Portfolio  
-👉 [**aboellil.dev**]([https:aboellil.dev](https://www.aboellil.dev/))  
+👉 [**aboellil.dev**](https://www.aboellil.dev/)  
 
 ---
 
